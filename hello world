@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-  cout<<"Hello World :)"<<endl;
+  cout<<"Hello World."<<endl << "My name is Bhanu Pratap Singh.\nMy github username is bhanupsingh10." << endl;
   return 0;
 }
